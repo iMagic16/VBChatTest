@@ -1,0 +1,3 @@
+\\occ\utcr\studenthome\james.walsh\documents\visual studio 2013\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\james_000\Dropbox\Visual Studio 2013\School\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Dropbox\Visual Studio 2013\Chat\Chat\bin\Debug\Chat.exe.config
